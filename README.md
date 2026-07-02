@@ -1,4 +1,4 @@
-# House_Price_Prediction-_with_Linear-Regression
+# House_Price_Prediction_with_Linear-Regression
 
 A supervised machine learning project focused on predicting residential property prices using the **King County Housing dataset**. This project demonstrates a complete data science pipeline, emphasizing data hygiene, descriptive visualization, and linear modeling.
 
